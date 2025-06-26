@@ -1,21 +1,38 @@
-# Railway Simulation Analyzer
+# 🚂 Railway Simulation Analyzer
+
+---
 
 <br>
 
 ```
 ⚠️ This repository was created as part of the Curricular Unit of "Matemática Discreta (MDISC)" in the 2nd semester of the Bachelor’s Degree in Informatics Engineering at ISEP, and was therefore developed as a group project.
+
+Team Members / Credits:
+ - David Vieira
+ - Ricardo Reis
+ - Marco Lima
+ - Daniil Pogorielov
 ```
 
-Railway Simulation Analyzer is a Java application developed to simulate railway network scenarios and provide detailed analysis tools. The project was created to support university teaching of algorithms and data structures, enabling the practical application of theoretical concepts in real-world contexts.
+<br>
 
-## Features
+
+## 🛤️ Project Overview
+
+- Railway Simulation Analyzer is a Java application developed to simulate railway network scenarios and provide detailed analysis tools. The project was created to support university teaching of algorithms and data structures, enabling the practical application of theoretical concepts in real-world contexts.
+
+---
+
+## 🚀 Features
 - Simulation of multiple railway scenarios from customizable input files (CSV).
 - Generation and visualization of graphs (DOT format).
 - Tools for path analysis, connections, and properties of railway graphs.
 - Automated test coverage and detailed code documentation.
 - Development organized by sprints, with task distribution and algorithm documentation.
 
-## Project Structure
+---
+
+## 🗂️ Project Structure
 
 ```
 RailwaySimulationAnalyzer/
@@ -34,14 +51,18 @@ RailwaySimulationAnalyzer/
 └── README.md            # This file
 ```
 
-## Documentation and Organization
+---
+
+## 📝️ Documentation and Organization
 - [Task Distribution and Team](docs/TeamMembersAndTasks.md)
 - [Algorithm Documentation](docs/algorithms_documentation/)
 - [Sprint Management](docs/management/)
 - [Algorithm Analyse - US26](docs/us26/)
 - [Algorithm Analyse - US28](docs/us28/)
 
-## How to Run the Project
+---
+
+## 🛠️ How to Run the Project
 
 ### Prerequisites
 - Java 11 or higher (preferably Java 23)
