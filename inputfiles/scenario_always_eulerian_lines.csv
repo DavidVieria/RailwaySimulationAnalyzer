@@ -1,0 +1,10 @@
+S_Kyle_of_Lochalsh;D_Attadale;0;27
+D_Attadale;S_Dingwall;0;109
+S_Dingwall;S_Ardgay;0;42
+S_Ardgay;D_Helmsdale;0;63
+D_Helmsdale;S_Wick;0;56
+S_Dingwall;T_Inverness;0;25
+T_Inverness;S_Elgin;1;61
+S_Elgin;T_Aberdeen;1;106
+S_Dingwall;S_Kyle_of_Lochalsh;0;57
+T_Aberdeen;S_Wick;1;77
